@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d585c39f4b083064f8a590ef9fe8d5f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339054
+  packageName: Fantasy Monster 3D Model 06 - Game Ready - PixeliusVita
+  packageVersion: 1.1
+  assetPath: Assets/Stylized3DMonster/Monster06/Anim/InPlace_Anim/Monster06_AC_InPlace.controller
+  uploadId: 822442
